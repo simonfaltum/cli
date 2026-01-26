@@ -102,6 +102,7 @@ const (
 	ReasonAlias             = "alias"
 	ReasonRemoteAlreadySet  = "remote_already_set"
 	ReasonBuiltinRule       = "builtin_rule"
+	ReasonAPISchema         = "apischema"
 	ReasonConfigOnly        = "config_only"
 	ReasonEmptySlice        = "empty_slice"
 	ReasonEmptyMap          = "empty_map"
