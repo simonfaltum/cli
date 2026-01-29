@@ -50,3 +50,6 @@ dist/
 # Local development notes, tmp
 /pr-*
 /tmp/
+
+# Fetched based on recorded hash
+.codegen/apischema.json
